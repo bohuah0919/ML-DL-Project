@@ -8,13 +8,15 @@ Solution:
   2. Image size: full size
   3. Augmentation: HorizontalFlip, VerticalFlip, and RandomBrightnessContrast
   4. TTA: HorizontalFlip
+  5. Loss funtion: 0.75 BCE loss + 0.25 Dice loss
 - Detection: 
   1. Models: top two best Unet with ResNet18 and the best FPN with ResNet50
   2. Image size: full size
   3. Augmentation: HorizontalFlip, VerticalFlip
   4. TTA: HorizontalFlip
+  5. Loss funtion: 0.75 BCE loss + 0.25 Dice loss
 
-Working Ideas:
+Useful Ideas:
 1. TTA in the classification increases the score by 0.003
 2. TTA in detection increases the score by 0.003
 3. Dropping small size areas in detection increases the score by 0.002
