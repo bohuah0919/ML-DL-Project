@@ -5,10 +5,10 @@ Description: Using given images of cassava leaves to build models to classify th
 Solution:
 
 Classification:
-Models: ResNext34
-Image size: 448*448
-Augmentation: RandomResizedCrop, HorizontalFlip, VerticalFlip, and ShiftScaleRotate
-Loss function: Cross Entropy with label smoothing
+- Models: ResNext34
+- Image size: 448*448
+- Augmentation: RandomResizedCrop, HorizontalFlip, VerticalFlip, and ShiftScaleRotate
+- Loss function: Cross Entropy with label smoothing
 
 Useful Idea:
 Label smoothing
