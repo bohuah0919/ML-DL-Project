@@ -1,4 +1,4 @@
-1. Linear 
+1. Linear Regression and it with L2 regularization
 - Description: Using Numpy to implement an algorithm of Linear Regression and it with L2 regularization. 
 
 
