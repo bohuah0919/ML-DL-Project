@@ -14,4 +14,5 @@ Useful Idea:
 Label smoothing
 
 Result: I finally get a score 0.886 for this project, it is close to most scores from historical competition participants!
-[QQ图片20221212181315](https://user-images.githubusercontent.com/98621364/207209579-9d64d336-f883-4604-aeca-8b0640e9241f.png)
+
+![QQ图片20221212181315](https://user-images.githubusercontent.com/98621364/207478740-400570a2-2af3-418f-9734-ea2c574cb101.png)
